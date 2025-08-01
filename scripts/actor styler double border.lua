@@ -128,10 +128,10 @@ HOW TO USE ACTOR DOUBLE BORDER STYLER
    ActorName,PrimaryColor,OutlineColor1,OutlineColor2,BorderSize1,BorderSize2
 
 Example:
-   Erika,&HFFFFFF&,&HACBEF7&,&HFFFFFF&,5,9
-   Hiro,&HFFFFFF&,&H9A5A8B&,&HFFFFFF&,5,9
+   Erika,&&HFFFFFF&&,&&HACBEF7&&,&&HFFFFFF&&,5,9
+   Hiro,&&HFFFFFF&&,&&H9A5A8B&&,&&HFFFFFF&&,5,9
 
-Color Format: &HBBGGRR& (same as color codes from Aegisub)
+Color Format: &&HBBGGRR&& (same as color codes from Aegisub)
 - PrimaryColor: Main text color
 - OutlineColor1: Inner outline color
 - OutlineColor2: Outer outline color
