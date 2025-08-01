@@ -1,6 +1,6 @@
 script_name = "Actor Styler Double Border"
 script_description = "Apply double outline styles per actor from external style file"
-script_author = "deepseek+gpt and satoshi"
+script_author = "deepseek and satoshi"
 script_version = "1.13"
 
 -- Corrected file name to match your file
